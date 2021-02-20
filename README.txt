@@ -1,0 +1,2 @@
+U zahtevima za zavrsni zadatak pise da treba poslati skrinshotove ekrana...emulatora ili kompjutera? :)
+Radi sigurnosti oba su dostupna u odgovarajucim folderima. Takodje je ukljucen i snimak na kome je pokrenuta aplikacija i demonstrirana njena funkcionalnost.

@@ -1,0 +1,10 @@
+KRATAK OPIS APLIKACIJE:
+
+Aplikacija je igra memorije koja se sastoji od 3 nivoa. 
+Na pocetnom ekranu nalaze se dva dugmeta ("new game" i "continue game").
+
+- klikom na dugme "new game" korisnik biva pitan da unese ime pod kojim ce da igra. Duzina imena je ogranicena na 25 karaktera. Nakon toga klikom na "continue" zapocinje se igra. Svaki nivo ima razlicit broj kartica na talonu (prvi ima 4 kartice(dva puta po 2 razlicite), drugi 36(18 razlicitih) a treci 64(32 razlicite)). Nakon zavrsenog nivoa ispisuje se poruka i moze se preci na sledeci nivo. Nakon zavrsetka poslednjeg nivoa ispisuje se poruka o zavrsetku igre.
+
+- klikom na dugme "continue game" ispisuju se svi igraci, kao i nivo do kog su stigli i broj ostvarenih poena. Klikom na nekog od igraca igrica se pokrece za tog igraca od nivoa do kog je on stigao. Ukoliko je igrac presao igricu ispisuje se poruka. Ukoliko se klikne dugme "continue game" a da prethodno niko nije igrao igru, odnosno baza je prazna, ispisace se poruka.
+
+NAPOMENA: Pogledati snimak za demonstraciju rada aplikacije. :) 
